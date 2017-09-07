@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-Yeow Leong here hahaha
-?
-=======
-Yeow Leong not here hahaha
->>>>>>> 33368beef892da53df6f5dfaf4181e4b28bb2847
